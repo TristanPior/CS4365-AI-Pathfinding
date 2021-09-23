@@ -1,4 +1,4 @@
-# CS4365_AI_Pathfinding
+# CS4365-AI-Pathfinding
 Class: CS4365  
 Assignment: Project 2  
 Due Date: N/A  
